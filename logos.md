@@ -1,5 +1,5 @@
-Tipología de Logos
-===
+# **Tipología de Logos**
+___
 
 ## ***Logotipo***
 ___
