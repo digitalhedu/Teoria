@@ -23,9 +23,9 @@ ___
         + Verde (Green)
         + Azul (Blue) 
     - Secudarios:
+        + Marron (brown)
+        + VIoleta (Violet)
         + Cian (Cyan)
-        + Magenta ( Magent)
-        + Amarillo ( Yellow)
     - *Síntesis aditiva*
     - *Uso Digital*
     - *Valores de 0 a 255*
